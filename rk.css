@@ -8,11 +8,12 @@ div{
 #edit{
     background-color: cadetblue;
 }
-a
+.a
 {
    margin-right: 20px;
    text-decoration: none;
    color: white;
+   
 }
 
 div{
@@ -28,4 +29,8 @@ p{
 {
     background-color: black;
     
+}
+#ins
+{
+    text-decoration: none;
 }
