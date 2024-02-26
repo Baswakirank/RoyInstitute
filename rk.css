@@ -1,0 +1,25 @@
+
+
+div{
+    
+    margin-right: 50px;
+    background-color:white
+}
+#edit{
+    background-color: cadetblue;
+}
+a
+{
+   margin-right: 20px;
+   text-decoration: none;
+}
+
+div{
+    
+     display:flex;
+     /* display: inline;  */
+     gap: 50px;
+}
+p{
+    display: flex;
+}
