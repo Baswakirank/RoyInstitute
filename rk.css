@@ -12,6 +12,7 @@ a
 {
    margin-right: 20px;
    text-decoration: none;
+   color: white;
 }
 
 div{
@@ -22,4 +23,9 @@ div{
 }
 p{
     display: flex;
+}
+.home
+{
+    background-color: black;
+    
 }
